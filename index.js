@@ -17,6 +17,6 @@ botoncito.addEventListener("click", () => {
         valorMaterias += valorMateria        
     } 
     
-    ValorPagar.innerHTML = "El valor total a pagar es " + (valorMaterias * pagoxdescuento + papeleria + carnet)
+    ValorPagar.innerHTML = "El Valor Total a pagar es " + (valorMaterias * pagoxdescuento + papeleria + carnet)
 
 })
